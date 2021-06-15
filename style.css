@@ -1,0 +1,14 @@
+/* Universal Styles */
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: seashell;
+    background-color: black;
+    font-size: 222px;
+    text-align: center;
+}
+
+.header-container {
+    background-color: black;
+}
